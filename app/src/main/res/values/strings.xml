@@ -13,5 +13,6 @@
     <string name="valcbotros">Otras preferencias</string>
     <string name="valswnotificacion">¿Notificar a la persona registrada?</string>
     <string name="valbtnregistrar">REGISTRAR PERSONA</string>
+    <string name="valbtnverpersonas">VER PERSONAS REGISTRADAS</string>
 
 </resources>
