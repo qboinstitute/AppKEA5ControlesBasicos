@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppKEA5ControlesBasicos</string>
+    <string name="tituloregistro">REGISTRAR PERSONA</string>
+    <string name="valetnombre">Ingrese su nombre</string>
+    <string name="valetapellido">Ingrese su apellido</string>
+    <string name="valgenero">Seleccione su género:</string>
+
+</resources>
