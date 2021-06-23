@@ -1,5 +1,6 @@
 package com.qbo.appkea5controlesbasicos
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -115,7 +116,11 @@ class MainActivity : AppCompatActivity(), View.OnClickListener, AdapterView.OnIt
     }
 
     private fun listarPersonas() {
-        TODO("Not yet implemented")
+        val intentListaPersona = Intent(this,
+            ListaPersonaActivity::class.java).apply {
+                putExtra("listapersonas", listaPersonas)
+        }
+        startActivity(intentListaPersona)
     }
 
     private fun registrarPersona() {
