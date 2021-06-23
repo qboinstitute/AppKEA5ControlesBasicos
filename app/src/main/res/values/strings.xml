@@ -14,5 +14,10 @@
     <string name="valswnotificacion">¿Notificar a la persona registrada?</string>
     <string name="valbtnregistrar">REGISTRAR PERSONA</string>
     <string name="valbtnverpersonas">VER PERSONAS REGISTRADAS</string>
+    <string name="errorNombreApellido">Ingrese nombre y apellido</string>
+    <string name="errorGenero">Seleccione su género</string>
+    <string name="errorEstadoCivil">Seleccionar su estado civil</string>
+    <string name="errorPreferencias">Seleccione al menos una preferencia.</string>
+    <string name="exitoRegistroPersona">Persona validada correctamente.</string>
 
 </resources>
